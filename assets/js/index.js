@@ -1,10 +1,10 @@
  $("#login-button").click(function(event){
 		 event.preventDefault();
 	 
-	 $('form').fadeOut(200);
+	 $('form').fadeOut(100);
 	 $('.wrapper').addClass('form-success');
 //window.location.assign("http://www.w3schools.com");
-setTimeout("redireccionarPagina()", 3000);
+setTimeout("redireccionarPagina()", 1500);
 });
 function redireccionarPagina() {
 var user1=document.getElementById("user").value;
