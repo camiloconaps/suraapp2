@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "sicmobileinteractivo"
-        version   = "1.0.5">
+        version   = "1.0.6">
 
     <name>SURA AUDITORIA</name>
 
     <description>
-        Desde esta APP permite la transferencia de polizas enviada de los upervisores de calle para validaciuon en linea por los auditores.
+        Desde esta APP permite la transferencia de pólizas enviada de los supervisores de calle para validación en linea por los auditores.
     </description>
 
     <author href="http://www.interactivo.com.co" email="desarrollo@interactivo.com.co">
