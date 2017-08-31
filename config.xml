@@ -6,7 +6,7 @@
         id        = "sicmobileinteractivo"
         version   = "2.0.7">
 
-    <name>SURA AUDITORIA</name>
+    <name>AUDITORIA ONLINE</name>
 
     <description>
         Desde esta APP permite la transferencia de pólizas enviada de los supervisores de calle para validación en linea por los auditores.
